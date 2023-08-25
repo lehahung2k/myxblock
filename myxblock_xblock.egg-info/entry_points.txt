@@ -1,2 +1,0 @@
-[xblock.v1]
-myxblock = myxblock:MyXBlock
